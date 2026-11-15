@@ -1,0 +1,10 @@
+*
+!/.gitignore
+!/README.md
+!/SECURITY.md
+!/NOTICE.md
+!/docs/
+!/docs/PRODUCT.md
+!/docs/ARCHITECTURE.md
+!/docs/VERIFIED_PROGRESS.md
+!/docs/ROADMAP.md
